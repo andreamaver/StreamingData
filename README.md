@@ -22,6 +22,6 @@ The project was developed mainly in R, but the RNN was implemented using Python.
 **Andrea Maver - Data Science Graduate @ University of Milano-Bicocca**
 * a.maver@campus.unimib.it
 * [GitHub](https://github.com/andreamaver)
-* [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-maver/)
 
  
